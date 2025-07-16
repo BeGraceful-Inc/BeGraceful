@@ -20,19 +20,19 @@ Install my-project with npm
     
 ## 🖼️ Screenshots & GIFs
 #### Screenshots
-![Start page](docs/screenshots/start-page.jpg)
-![Registration page](docs/screenshots/registration-page.jpg)
-![Personal info page](docs/screenshots/personal-info-page.jpg)
-![Log in page](docs/screenshots/log-in-page.jpg)
-![Home page](docs/screenshots/home-page.jpg)
-![Profile page](docs/screenshots/profile-page.jpg)
+- [Start page](docs/screenshots/start-page.jpg)
+- [Registration page](docs/screenshots/registration-page.jpg)
+- [Personal info page](docs/screenshots/personal-info-page.jpg)
+- [Log in page](docs/screenshots/log-in-page.jpg)
+- [Home page](docs/screenshots/home-page.jpg)
+- [Profile page](docs/screenshots/profile-page.jpg)
 
 #### GIFs
-![Registration](docs/gifs/registration.gif)
-![Log out - Log in](docs/gifs/logOut-logIn.gif)
-![Add meal](docs/gifs/add-meal.gif)
-![Add activity](docs/gifs/add-activity.gif)
-![Update weight](docs/gifs/update-weight.gif)
+- [Registration](docs/gifs/registration.gif)
+- [Log out - Log in](docs/gifs/logOut-logIn.gif)
+- [Add meal](docs/gifs/add-meal.gif)
+- [Add activity](docs/gifs/add-activity.gif)
+- [Update weight](docs/gifs/update-weight.gif)
 
 
 ## 🔗 API Documentation `template`
@@ -52,15 +52,14 @@ Install my-project with npm
 
 ## 🏗️ Architecture & Diagrams
 ### 1. System Overview  
-![System Overview](docs/diagrams/high-level-system.png)
-
-![System Component Diagram](docs/diagrams/system-component.png)
+- [System Overview](docs/diagrams/high-level-system.png)
+- [System Component Diagram](docs/diagrams/system-component.png)
 
 ### 2. Database Schema  
-![ER Diagram](docs/diagrams/database-entity-relationship.png)
+- [ER Diagram](docs/diagrams/database-entity-relationship.png)
 
 ### 3. Frontend Architecture  
-![Frontend](docs/diagrams/frontend-architecture.png)
+- [Frontend](docs/diagrams/frontend-architecture.png)
 
 
 
@@ -85,7 +84,7 @@ Install my-project with npm
 #### Frontend development (8 points)
 - [x] Flutter-based cross-platform application (mobile + web) (3 points)
 - [x] Responsive UI design with custom [widgets](https://github.com/BeGraceful-Inc/BeGraceful/tree/dev2/frontend/lib/src/ui/widgets) (1 point)
-- [x] State management implementation (1 point)
+- [x] State management implementation (1 point) ([Providers](https://github.com/BeGraceful-Inc/BeGraceful/tree/dev2/frontend/lib/src/providers), ChangeNotifier) 
 - [ ] Offline data persistence (1 point)
 - [ ] Unit and widget [tests](https://github.com/BeGraceful-Inc/BeGraceful/tree/dev2/frontend/test) (1 point)
 - [x] Support light and dark mode (1 point)
@@ -105,9 +104,9 @@ Install my-project with npm
 
 #### Documentation (4 points)
 - [ ] Project overview and setup instructions (1 point)
-- [x] [Screenshots]() and [GIFs]() of key features (1 point)
+- [x] [Screenshots](https://github.com/BeGraceful-Inc/BeGraceful/tree/dev2/docs/screenshots) and [GIFs](https://github.com/BeGraceful-Inc/BeGraceful/tree/dev2/docs/gifs) of key features (1 point)
 - [ ] API documentation (1 point)
-- [x] [Architecture diagrams]() and explanations (1 point)
+- [x] [Architecture diagrams](https://github.com/BeGraceful-Inc/BeGraceful/tree/dev2/docs/diagrams) and explanations (1 point)
 
 #### Code quality (2 points)
 - [ ] Consistent code style and formatting during CI/CD pipeline (1 point)
@@ -115,7 +114,7 @@ Install my-project with npm
 
 ### Bonus Features (up to 10 points)
 - [ ] Localization for Russian (RU) and English (ENG) languages (2 points)
-- [ ] Good UI/UX design (up to 3 points)
+- [x] Good UI/UX design (up to 3 points)
 - [ ] Integration with external APIs (fitness trackers, health devices) (up to 5 points)
 - [ ] Comprehensive error handling and user feedback (up to 2 points)
 - [ ] Advanced animations and transitions (up to 3 points)
