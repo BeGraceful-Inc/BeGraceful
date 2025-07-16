@@ -40,9 +40,17 @@ Install my-project with npm
 
 
 ## 🏗️ Architecture & Diagrams
-- [High-level]()
-- [Frontend]()
-- [Backend]()
+### 1. System Overview  
+![System Overview](docs/diagrams/high-level-system.png)
+
+![System Component Diagram](docs/diagrams/system-component.png)
+
+### 2. Database Schema  
+![ER Diagram](docs/diagrams/database-entity-relationship.png)
+
+### 3. Frontend Architecture  
+![Frontend](docs/diagrams/frontend_architecture.png)
+
 
 
 ## Authors
