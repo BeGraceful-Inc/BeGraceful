@@ -20,8 +20,19 @@ Install my-project with npm
     
 ## 🖼️ Screenshots & GIFs
 #### Screenshots
-![Start page]()
+![Start page](docs/screenshots/start-page.jpg)
+![Registration page](docs/screenshots/registration-page.jpg)
+![Personal info page](docs/screenshots/personal-info-page.jpg)
+![Log in page](docs/screenshots/log-in-page.jpg)
+![Home page](docs/screenshots/home-page.jpg)
+![Profile page](docs/screenshots/profile-page.jpg)
 
+#### GIFs
+![Registration](docs/gifs/registration.gif)
+![Log out - Log in](docs/gifs/logOut-logIn.gif)
+![Add meal](docs/gifs/add-meal.gif)
+![Add activity](docs/gifs/add-activity.gif)
+![Update weight](docs/gifs/update-weight.gif)
 
 
 ## 🔗 API Documentation `template`
@@ -94,7 +105,7 @@ Install my-project with npm
 
 #### Documentation (4 points)
 - [ ] Project overview and setup instructions (1 point)
-- [x] [Screenshots]() and GIFs of key features (1 point)
+- [x] [Screenshots]() and [GIFs]() of key features (1 point)
 - [ ] API documentation (1 point)
 - [x] [Architecture diagrams]() and explanations (1 point)
 
