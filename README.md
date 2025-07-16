@@ -49,7 +49,7 @@ Install my-project with npm
 ![ER Diagram](docs/diagrams/database-entity-relationship.png)
 
 ### 3. Frontend Architecture  
-![Frontend](docs/diagrams/frontend_architecture.png)
+![Frontend](docs/diagrams/frontend-architecture.png)
 
 
 
