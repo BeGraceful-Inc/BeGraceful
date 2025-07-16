@@ -11,25 +11,20 @@ BeGraceful - an application for monitoring nutrition and activity. Users can tra
 
 
 ## 🚀 Setup Instructions
-
 Install my-project with npm
 
 ```bash
-  npm install my-project
-  cd my-project
+  #
 ```
 
     
 ## 🖼️ Screenshots & GIFs
-
 #### Screenshots
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-#### GIFs
-![Demo GIF](assets/gifs/meal_addition.gif)
+![Start page]()
 
 
-## 🔗 API Documentation
+
+## 🔗 API Documentation `template`
 
 #### Get all items
 
@@ -41,28 +36,21 @@ Install my-project with npm
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
 
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
-
 #### add(num1, num2)
 
 
 ## 🏗️ Architecture & Diagrams
+- [High-level]()
+- [Frontend]()
+- [Backend]()
 
 
 ## Authors
-- [@Retr0-46](https://github.com/Retr0-46)
-- [@kas-whr](https://github.com/kas-whr)
-- [@1r444444](https://github.com/1r444444)
-- [@DariaKomzolova](https://github.com/DariaKomzolova)
-- [@]()
+- [@Retr0-46](https://github.com/Retr0-46) - backend
+- [@kas-whr](https://github.com/kas-whr) - frontend
+- [@1r444444](https://github.com/1r444444) - UI/UX design + frontend
+- [@DariaKomzolova](https://github.com/DariaKomzolova) - frontend
+- [@]() - backend
 
 ## Implementation checklist
 
@@ -72,35 +60,35 @@ Install my-project with npm
 - [ ] RESTful API with Swagger documentation (1 point)
 - [ ] gRPC implementation for communication between microservices (1 point)
 - [ ] PostgreSQL database with proper schema design (1 point)
-- [ ] JWT-based authentication and authorization (1 point)
+- [x] JWT-based authentication and authorization (1 point)
 - [ ] Comprehensive unit and integration tests (1 point)
 
 #### Frontend development (8 points)
 - [x] Flutter-based cross-platform application (mobile + web) (3 points)
-- [x] Responsive UI design with custom [widgets]() (1 point)
+- [x] Responsive UI design with custom [widgets](https://github.com/BeGraceful-Inc/BeGraceful/tree/dev2/frontend/lib/src/ui/widgets) (1 point)
 - [x] State management implementation (1 point)
 - [ ] Offline data persistence (1 point)
-- [ ] Unit and widget tests (1 point)
-- [ ] Support light and dark mode (1 point)
+- [ ] Unit and widget [tests](https://github.com/BeGraceful-Inc/BeGraceful/tree/dev2/frontend/test) (1 point)
+- [x] Support light and dark mode (1 point)
 
 #### DevOps & deployment (4 points)
-- [ ] Docker compose for all services (1 point) [front](), [back]()
-- [ ] [CI/CD pipeline implementation (1 point)]()
+- [ ] Docker compose for all services (1 point) [front](), [back](https://github.com/BeGraceful-Inc/BeGraceful/blob/dev2/backend/docker-compose.yml)
+- [ ] CI/CD pipeline implementation (1 point)
 - [ ] Environment configuration management using config files (1 point)
 - [ ] GitHub pages for the project (1 point)
 
 ### Non-Technical Requirements (10 points)
 #### Project management (4 points)
-- [ ] GitHub organization with well-maintained repository (1 point)
+- [x] GitHub organization with well-maintained repository (1 point)
 - [ ] Regular commits and meaningful pull requests from all team members (1 point)
-- [ ] Project board (GitHub Projects) with task tracking (1 point)
-- [ ] Team member roles and responsibilities documentation (1 point)
+- [x] [Project board](https://github.com/orgs/BeGraceful-Inc/projects/1) (GitHub Projects) with task tracking (1 point)
+- [x] Team member roles and responsibilities documentation (1 point)
 
 #### Documentation (4 points)
 - [ ] Project overview and setup instructions (1 point)
-- [ ] Screenshots and GIFs of key features (1 point)
+- [x] [Screenshots]() and GIFs of key features (1 point)
 - [ ] API documentation (1 point)
-- [ ] Architecture diagrams and explanations (1 point)
+- [x] [Architecture diagrams]() and explanations (1 point)
 
 #### Code quality (2 points)
 - [ ] Consistent code style and formatting during CI/CD pipeline (1 point)
