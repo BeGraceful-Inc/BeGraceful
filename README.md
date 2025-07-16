@@ -1,7 +1,4 @@
-`<img src="/logo.png" alt="logo" width="40" style="vertical-align: middle;"/>`
-
-
-# BeGraceful - Calorie Diary App
+# <img src="docs/assets/clever-icon.png" alt="logo" width="40" style="vertical-align: middle;"/> BeGraceful - Calorie Diary App
 BeGraceful - an application for monitoring nutrition and activity. Users can track calories, steps, workouts
 
 
@@ -58,9 +55,14 @@ Install my-project with npm
 
 
 ## 🏗️ Architecture & Diagrams
-## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+
+## Authors
+- [@Retr0-46](https://github.com/Retr0-46)
+- [@kas-whr](https://github.com/kas-whr)
+- [@1r444444](https://github.com/1r444444)
+- [@DariaKomzolova](https://github.com/DariaKomzolova)
+- [@]()
 
 ## Implementation checklist
 
@@ -74,16 +76,16 @@ Install my-project with npm
 - [ ] Comprehensive unit and integration tests (1 point)
 
 #### Frontend development (8 points)
-- [ ] Flutter-based cross-platform application (mobile + web) (3 points)
-- [ ] Responsive UI design with custom widgets (1 point)
-- [ ] State management implementation (1 point)
+- [x] Flutter-based cross-platform application (mobile + web) (3 points)
+- [x] Responsive UI design with custom [widgets]() (1 point)
+- [x] State management implementation (1 point)
 - [ ] Offline data persistence (1 point)
 - [ ] Unit and widget tests (1 point)
 - [ ] Support light and dark mode (1 point)
 
 #### DevOps & deployment (4 points)
-- [ ] Docker compose for all services (1 point)
-- [ ] CI/CD pipeline implementation (1 point)
+- [ ] Docker compose for all services (1 point) [front](), [back]()
+- [ ] [CI/CD pipeline implementation (1 point)]()
 - [ ] Environment configuration management using config files (1 point)
 - [ ] GitHub pages for the project (1 point)
 
