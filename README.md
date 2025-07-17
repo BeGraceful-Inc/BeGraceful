@@ -205,7 +205,7 @@ Full API documentation available in Swagger format for each service.
 - [x] Support light and dark mode (1 point)
 
 #### DevOps & deployment (4 points)
-- [x] Docker compose for all services (1 point) [back](https://github.com/BeGraceful-Inc/BeGraceful/blob/dev2/backend/docker-compose.yml)
+- [x] [Docker compose](https://github.com/BeGraceful-Inc/BeGraceful/blob/dev2/backend/docker-compose.yml) for all services (1 point)
 - [ ] CI/CD pipeline implementation (1 point)
 - [ ] Environment configuration management using config files (1 point)
 - [ ] GitHub pages for the project (1 point)
