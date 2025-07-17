@@ -168,14 +168,14 @@ POST /api/v1/calories/steps
 Full API documentation available in Swagger format for each service.
 
 ## 🏗️ Architecture & Diagrams
-### 1System Overview  
+### System Overview  
 - [System Overview](docs/diagrams/high-level-system.png)
 - [System Component Diagram](docs/diagrams/system-component.png)
 
-### 2Database Schema  
+### Database Schema  
 - [ER Diagram](docs/diagrams/database-entity-relationship.png)
 
-### 3. Frontend Architecture  
+### Frontend Architecture  
 - [Frontend](docs/diagrams/frontend-architecture.png)
 
 ## Authors
@@ -201,12 +201,12 @@ Full API documentation available in Swagger format for each service.
 - [x] Responsive UI design with custom [widgets](https://github.com/BeGraceful-Inc/BeGraceful/tree/dev2rontend/lib/src/ui/widgets) (1 point)
 - [x] State management implementation (1 point) ([Providers](https://github.com/BeGraceful-Inc/BeGraceful/tree/dev2ontend/lib/src/providers), ChangeNotifier) 
 - [ ] Offline data persistence (1 point)
-- [x] Unit and widget [tests](https://github.com/BeGraceful-Inc/BeGraceful/tree/dev2/frontend/test) (1 point)
+- [ ] Unit and widget [tests](https://github.com/BeGraceful-Inc/BeGraceful/tree/dev2/frontend/test) (1 point)
 - [x] Support light and dark mode (1 point)
 
 #### DevOps & deployment (4 points)
-- [x] Docker compose for all services (1 point) [front](), [back](https://github.com/BeGraceful-Inc/BeGraceful/blob/dev2/backend/docker-compose.yml)
-- ine implementation (1 point)
+- [x] Docker compose for all services (1 point) [back](https://github.com/BeGraceful-Inc/BeGraceful/blob/dev2/backend/docker-compose.yml)
+- [ ] CI/CD pipeline implementation (1 point)
 - [ ] Environment configuration management using config files (1 point)
 - [ ] GitHub pages for the project (1 point)
 
