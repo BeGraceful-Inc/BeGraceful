@@ -179,9 +179,9 @@ Full API documentation available in Swagger format for each service.
 - [Frontend](docs/diagrams/frontend-architecture.png)
 
 ## Authors
-- [@Retr0-46https://github.com/Retr0-46 - backend
+- [@Retr0-46](https://github.com/Retr0-46) - backend
 - [@kas-whr](https://github.com/kas-whr) - frontend
-- [@144https://github.com/1r444444) - UI/UX design + frontend
+- [@1r444444](https://github.com/1r444444) - UI/UX design + frontend
 - [@DariaKomzolova](https://github.com/DariaKomzolova) - frontend
 - [@dimiyx](https://github.com/dimiyx) - backend
 
@@ -191,7 +191,7 @@ Full API documentation available in Swagger format for each service.
 #### Backend development (8ts)
 - [x] Go-based microservices architecture (minimum 3 services) (3 points)
 - [x] RESTful API with Swagger documentation (1 point)
-- [x] gRPC implementation for communication between microservices (1 point)
+- [ ] gRPC implementation for communication between microservices (1 point)
 - [x] PostgreSQL database with proper schema design (1t)
 - [x] JWT-based authentication and authorization (1 point)
 - [ ] Comprehensive unit and integration tests (1 point)
