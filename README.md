@@ -77,7 +77,7 @@ BeGraceful backend is built using a **microservices architecture** with three in
   - `PATCH /api/v1/profiles/{user_id}/weight` - Update current weight
 
 #### 3. **Calories Service** (`calories_service`)
-- **Port**: 83rpose**: Nutrition and activity tracking
+- **Port**: 83 **Purpose**: Nutrition and activity tracking
 - **Key Features**:
   - Food intake logging with nutritional information
   - Workout and activity tracking
@@ -103,7 +103,8 @@ BeGraceful backend is built using a **microservices architecture** with three in
 2. **Profile Update**:
    ```
    Frontend → Profile Service → Database
-   ```3. **Food Logging**:
+   ```
+   3. **Food Logging**:
    ```
    Frontend → Calories Service → Database
    ```
